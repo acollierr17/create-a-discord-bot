@@ -76,7 +76,7 @@ On this page, complete the Captcha. Afterward, you'll get a message that the aut
 
 ![](https://i.imgur.com/Bc1Wgwv.png)
 
-If you head over to your server, you invited the bot too, you'll see it in the member list!
+If you head to the server you invited the bot to, you'll see it on the member list!
 
 My bot is online just for this guide. If you want more information on how to create a Discord bot and get it online, here are some communities you can get involved in:
 
